@@ -1,4 +1,4 @@
-\# MyRedis
+\ MyRedis
 
 
 
@@ -8,7 +8,7 @@ for concurrent client handling and a Redis-style wire protocol.
 
 
 
-\## Setup
+\ Setup
 
 
 
@@ -20,7 +20,7 @@ for concurrent client handling and a Redis-style wire protocol.
 
 
 
-\## Run the server
+\ Run the server
 
 
 
@@ -28,7 +28,7 @@ for concurrent client handling and a Redis-style wire protocol.
 
 
 
-\## Use the client
+\Use the client
 
 
 
@@ -42,7 +42,7 @@ for concurrent client handling and a Redis-style wire protocol.
 
 
 
-\## Supported commands
+\ Supported commands
 
 
 
